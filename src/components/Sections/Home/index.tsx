@@ -16,7 +16,7 @@ export default function Home() {
                     Online.
                 </div>
                 <div className={styles.introduction}>
-                    Hey, I&apos;m umang pradhan
+                    Hey, I&apos;m Umang Pradhan
                     
                     <div className={styles.occupation}>
                         Front-end Developer.

@@ -45,7 +45,7 @@ export default function Home() {
                 <hr className={styles.divider}/>
                 <div className={styles.summery}>
                     <p>
-                        Hey!, I&apos;m umang Pradhan, <b> Experienced Front-End developer </b>  with
+                        Hey!, I&apos;m Umang Pradhan, <b> Experienced Front-End developer </b>  with
                         over 6
                         years of
                         experience

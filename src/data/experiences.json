@@ -1,0 +1,31 @@
+
+[
+  {
+    "time": "March 2021 - Present",
+    "title": "Front-End Developer - Unimaginable Technologies",
+    "description": "Designed, developed, and shipped production code for multiple clients using React.js, Node.js, Express.js, OpenAI GPT, and Redux for state management.",
+    "tags": [
+      "React.js",
+      "Node.js",
+      "Javascript",
+      "Git",
+      "OpenAI-GPT"
+    
+    ]
+  },
+  {
+    "time": "Oct 2018 - Jan 2021",
+    "title": "Website Designer - BDSD Technology",
+    "description": "My responsibility for creating the visual layout, user interface (UI), and overall aesthetics of a website. My primary goal is to ensure that the site is both visually appealing and user-friendly while aligning with a brand's identity and goals.",
+    "tags": [
+      "Html",
+      "CSS",
+      "Bootstap",
+      "Javascript",
+      "Photoshop",
+      "Web Development",
+      "Wordpress"
+    ]
+  }
+]
+

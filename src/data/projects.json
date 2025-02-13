@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "BDSD Technology",
+    "description": "A Software Development Company website for showcasing my experiences.",
+    "thumbnail": "https://raw.githubusercontent.com/umang-techi/Images/refs/heads/main/screen1.png",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "topics": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "repository": "https://www.bdsdtechnology.com/"
+  },
+  {
+    "id": "2",
+    "name": "E-Commerce",
+    "description": "An simple E-Commerce website where you can test out the database.",
+    "thumbnail": "https://github.com/umang-techi/Images/blob/main/Screenshot_20221221_174301.png?raw=true",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "topics": [
+      "Html",
+      "CSS"
+    ],
+    "repository": "https://umang-techi.github.io/nos/"
+  },
+  {
+    "id": "3",
+    "name": "BackPack2go",
+    "description": "This is a travel website through which you can book flights, hotels, Holiday etc.",
+    "languages": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "topics": [
+      "Html",
+      "CSS",
+      "JavaScript"
+    ],
+    "thumbnail": "https://raw.githubusercontent.com/umang-techi/Images/refs/heads/main/Screenshot%202025-02-05%20144232.png",
+    "repository": "https://www.bagpack2go.com/"
+  },
+  {
+    "id": "4",
+    "name": "Modelens",
+    "description": "This website built using the popular React JavaScript library and dynamic and interactive interfaces by efficiently managing and updating the components of a web page as the data changes",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "tailwind css",
+      "React js"
+    ],
+    "topics": [
+      "JavaScript",
+      "HTML",
+      "tailwind css",
+      "React js"
+    ],
+    "thumbnail": "https://raw.githubusercontent.com/umang-techi/Images/refs/heads/main/Screenshot%202025-02-05%20144408.png",
+    "repository": "modelens.co"
+  }
+]

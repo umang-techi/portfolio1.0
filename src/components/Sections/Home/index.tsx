@@ -49,8 +49,9 @@ export default function Home() {
                         over 6
                         years of
                         experience
-                        in <b> Html</b>, <b>CSS</b> <b> Javascript</b>,<b> Wordpress</b>, and <b> React js</b> . Ready to
-                        build innovative web applications and always putting out creative solutions to
+                        in <b> Html</b>, <b>CSS</b> <b> Javascript</b>,<b> Wordpress</b>, and <b> React js</b>.
+                        With 1 year of experience as a Full-Stack Developer, I bring a solid understanding of backend technologies such as Node.js and Express, enabling effective collaboration across the full development stack. 
+                        Ready to build innovative web applications and always putting out creative solutions to
                         problems.
                     </p><br/>
                   

@@ -23,7 +23,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className={styles.contacts}>
-                    <a href="https://drive.google.com/drive/my-drive" target="_blank"
+                    <a href="" target="_blank"
                        className={styles['resume-button']}>
                         <Image src={Resume} alt={'GitHub'} className={styles.icon} width={20} height={20}/>
                         <div className={styles.label}>Resume</div>

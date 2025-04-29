@@ -2,14 +2,16 @@
 [
   {
     "time": "March 2021 - Present",
-    "title": "Front-End Developer - Unimaginable Technologies",
+    "title": "Full Stack Developer - Atina International",
     "description": "Designed, developed, and shipped production code for multiple clients using React.js, Node.js, Express.js, OpenAI GPT, and Redux for state management.",
     "tags": [
       "React.js",
       "Node.js",
+       "Next Js",
       "Javascript",
       "Git",
-      "OpenAI-GPT"
+      "OpenAI-GPT",
+      "Mysql"
     
     ]
   },

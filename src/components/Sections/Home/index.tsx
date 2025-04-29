@@ -19,11 +19,11 @@ export default function Home() {
                     Hey, I&apos;m Umang Pradhan
                     
                     <div className={styles.occupation}>
-                        Front-end Developer.
+                        Full stack Developer.
                     </div>
                 </div>
                 <div className={styles.contacts}>
-                    <a href="https://drive.google.com/file/d/1U7BCDQgz04vuXw8w8RJX4Ki674VX9Qt5/view" target="_blank"
+                    <a href="https://drive.google.com/drive/my-drive" target="_blank"
                        className={styles['resume-button']}>
                         <Image src={Resume} alt={'GitHub'} className={styles.icon} width={20} height={20}/>
                         <div className={styles.label}>Resume</div>

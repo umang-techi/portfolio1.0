@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     metadataBase: new URL('https://job-infos.kyawzinthiha.com'),
     title: 'Umang Pradhan',
     description: 'Versatile TypeScript Front-End Developer with a flair for designing and developing scalable web applications using React.js, Nest.js, and a suite of modern technologies. Passionate about building user-centric solutions and leveraging AI technologies like OpenAI GPT for personalized experiences.',
-    keywords: 'TypeScript, HTML, Javascript, Front-End Stack Developer, React.js, Node.js, Next.js, Nest.js, Web Development, AI, OpenAI GPT, Software Engineering',
+    keywords: 'TypeScript, HTML, Javascript, Front-End Stack Developer, React.js, Nest.js, Web Development, AI, OpenAI GPT, Software Engineering',
     authors: [{name: 'Umang Pradhan', url: ''}],
     manifest: '/manifest.json',
     appleWebApp: {

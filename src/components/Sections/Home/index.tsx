@@ -19,7 +19,7 @@ export default function Home() {
                     Hey, I&apos;m Umang Pradhan
                     
                     <div className={styles.occupation}>
-                        Full stack Developer.
+                        Frontend Developer.
                     </div>
                 </div>
                 <div className={styles.contacts}>
@@ -50,7 +50,7 @@ export default function Home() {
                         years of
                         experience
                         in <b> Html</b>, <b>CSS</b> <b> Javascript</b>,<b> Wordpress</b>, and <b> React js</b>.
-                        With 1 year of experience as a Full-Stack Developer, I bring a solid understanding of backend technologies such as <b>Node.js</b> and <b>Express</b>, enabling effective collaboration across the full development stack. 
+                        I bring a solid understanding of Frontend technologies such as <b>Next.js</b> and <b>React JS</b>, enabling effective collaboration across the full development stack. 
                         Ready to build innovative web applications and always putting out creative solutions to
                         problems.
                     </p><br/>

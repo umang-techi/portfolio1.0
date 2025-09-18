@@ -50,7 +50,7 @@ export default function Home() {
                         years of
                         experience
                         in <b> Html</b>, <b>CSS</b> <b> Javascript</b>,<b> Wordpress</b>, and <b> React js</b>.
-                        I bring a solid understanding of Frontend technologies such as <b>Next.js</b> and <b>React JS</b>, enabling effective collaboration across the full development stack. 
+                        I bring a solid understanding of Frontend technologies such as <b>Next.js</b>.
                         Ready to build innovative web applications and always putting out creative solutions to
                         problems.
                     </p><br/>
